@@ -7,7 +7,7 @@
 
  
       <section id="feature" class="transparent-bg">
-        <div class="container">
+        <div class="container">dasdasdasdasdvv
            <div class="center wow fadeInDown">
                  <h2 class="page-header">List of Candidates </h2>
                 <!-- <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p> -->
